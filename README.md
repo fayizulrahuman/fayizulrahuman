@@ -5,8 +5,8 @@
 <br/>
 
 <a href="https://github.com/fayizulrahuman"><img src="https://img.shields.io/badge/GitHub-5eead4?style=for-the-badge&logo=github&logoColor=0b1020&labelColor=0b1020" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0b1020&labelColor=0b1020" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-f0abfc?style=for-the-badge&logo=gmail&logoColor=0b1020&labelColor=0b1020" alt="Email"/></a>
+<a href="https://linkedin.com/in/fayizulrahuman"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0b1020&labelColor=0b1020" alt="LinkedIn"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fayizulrahuman2005@gmail.com&su=Hello%20Fayizul"><img src="https://img.shields.io/badge/Email-f0abfc?style=for-the-badge&logo=gmail&logoColor=0b1020&labelColor=0b1020" alt="Email"/></a>
 
 </div>
 
