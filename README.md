@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/fayizulrahuman"><img src="https://img.shields.io/badge/GitHub-5eead4?style=for-the-badge&logo=github&logoColor=0b1020&labelColor=0b1020" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/fayizulrahuman"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0b1020&labelColor=0b1020" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0b1020&labelColor=0b1020" alt="LinkedIn"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fayizulrahuman2005@gmail.com&su=Hello%20Fayizul"><img src="https://img.shields.io/badge/Email-f0abfc?style=for-the-badge&logo=gmail&logoColor=0b1020&labelColor=0b1020" alt="Email"/></a>
 
 </div>
@@ -49,7 +49,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fayizulrahuman&show_icons=true&hide_border=true&bg_color=0b1020&title_color=5eead4&icon_color=a78bfa&text_color=dfe2f5&ring_color=f0abfc" alt="GitHub stats"/>
+<img src="assets/stats.svg" alt="GitHub stats" width="100%"/>
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayizulrahuman&layout=compact&hide_border=true&bg_color=0b1020&title_color=5eead4&text_color=dfe2f5" alt="Top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayizulrahuman&hide_border=true&background=0b1020&ring=a78bfa&fire=f0abfc&currStreakLabel=5eead4&sideLabels=dfe2f5&currStreakNum=ffffff&sideNums=ffffff&dates=8b93b0" alt="Streak"/>
