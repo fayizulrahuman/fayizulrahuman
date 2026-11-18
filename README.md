@@ -22,11 +22,11 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/fayizulrahuman/vishwaas-guard"><img src="assets/card-vishwaas.svg" alt="Vishwaas Guard"/></a></td>
-<td width="50%"><a href="https://github.com/fayizulrahuman/cinemood"><img src="assets/card-cinemood.svg" alt="Cinemood"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/fallguard"><img src="assets/card-fallguard.svg" alt="FallGuard"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/VitalSync"><img src="assets/card-vitalsync.svg" alt="VitalSync"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/fayizulrahuman/dreamcontinuator"><img src="assets/card-dream.svg" alt="DreamContinuator"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/hidden-gems"><img src="assets/card-hiddengems.svg" alt="HiddenGems"/></a></td>
 <td width="50%"><a href="https://github.com/fayizulrahuman/fintrack"><img src="assets/card-fintrack.svg" alt="FinTrack"/></a></td>
 </tr>
 </table>
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,html,css,firebase,python,pytorch,tensorflow,opencv,flutter,fastapi,git,github,vscode,linux&perline=8" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,nodejs,express,mongodb,firebase,supabase,tailwind,expo,html,css,git,github&perline=8" alt="Tech stack"/>
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayizulrahuman&hide_border=true&background=0b1020&ring=a78bfa&fire=f0abfc&currStreakLabel=5eead4&sideLabels=dfe2f5&currStreakNum=ffffff&sideNums=ffffff&dates=8b93b0" alt="Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fayizulrahuman&bg_color=0b1020&color=5eead4&line=a78bfa&point=f0abfc&area=true&area_color=a78bfa&hide_border=true" alt="Contribution graph" width="100%"/>
+<img src="assets/contrib.svg" alt="Animated contribution graph" width="100%"/>
 
 <br/><br/>
 
