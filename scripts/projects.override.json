@@ -1,0 +1,6 @@
+{
+  "fallguard":   {"desc": "Privacy-first fall detection for the elderly. Turns an old phone into a smart safety camera and sends Telegram alerts with stick-figure snapshots.", "chips": ["MediaPipe", "FastAPI", "React"]},
+  "VitalSync":   {"desc": "A unified mobile health app: wellness dashboard, medicine reminders, an emergency blood network and a rural health assistant.", "chips": ["React Native", "Firebase", "Expo"]},
+  "hidden-gems": {"desc": "A crowdsourced travel app to share secret spots, get road distances and live weather, and earn explorer badges. Live on Render.", "chips": ["Node.js", "MongoDB", "MapLibre"]},
+  "fintrack":    {"desc": "Expense manager with spending-trend charts, payment reminders and automatic month-end archiving, built with Expo and TypeScript.", "chips": ["React Native", "TypeScript", "Expo"]}
+}

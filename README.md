@@ -20,16 +20,18 @@
 
 <img src="assets/h-projects.svg" alt="Projects" width="100%"/>
 
+<!--PROJECTS:START-->
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/fayizulrahuman/fallguard"><img src="assets/card-fallguard.svg" alt="FallGuard"/></a></td>
-<td width="50%"><a href="https://github.com/fayizulrahuman/VitalSync"><img src="assets/card-vitalsync.svg" alt="VitalSync"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/fallguard"><img src="assets/cards/fallguard.svg" alt="fallguard"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/VitalSync"><img src="assets/cards/VitalSync.svg" alt="VitalSync"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/fayizulrahuman/hidden-gems"><img src="assets/card-hiddengems.svg" alt="HiddenGems"/></a></td>
-<td width="50%"><a href="https://github.com/fayizulrahuman/fintrack"><img src="assets/card-fintrack.svg" alt="FinTrack"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/hidden-gems"><img src="assets/cards/hidden-gems.svg" alt="hidden-gems"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/fintrack"><img src="assets/cards/fintrack.svg" alt="fintrack"/></a></td>
 </tr>
 </table>
+<!--PROJECTS:END-->
 
 <br/>
 
