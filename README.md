@@ -4,6 +4,7 @@
 
 <br/>
 
+<a href="https://fayizulrahuman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fbbf24?style=for-the-badge&logo=vercel&logoColor=0b1020&labelColor=0b1020" alt="Portfolio"/></a>
 <a href="https://github.com/fayizulrahuman"><img src="https://img.shields.io/badge/GitHub-5eead4?style=for-the-badge&logo=github&logoColor=0b1020&labelColor=0b1020" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/fayizulrahuman"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0b1020&labelColor=0b1020" alt="LinkedIn"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fayizulrahuman2005@gmail.com&su=Hello%20Fayizul"><img src="https://img.shields.io/badge/Email-f0abfc?style=for-the-badge&logo=gmail&logoColor=0b1020&labelColor=0b1020" alt="Email"/></a>
@@ -23,12 +24,12 @@
 <!--PROJECTS:START-->
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/fayizulrahuman/fallguard"><img src="assets/cards/fallguard.svg" alt="fallguard"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/FallGuard"><img src="assets/cards/fallguard.svg" alt="FallGuard"/></a></td>
 <td width="50%"><a href="https://github.com/fayizulrahuman/VitalSync"><img src="assets/cards/VitalSync.svg" alt="VitalSync"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/fayizulrahuman/hidden-gems"><img src="assets/cards/hidden-gems.svg" alt="hidden-gems"/></a></td>
-<td width="50%"><a href="https://github.com/fayizulrahuman/fintrack"><img src="assets/cards/fintrack.svg" alt="fintrack"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/Hidden-Gems"><img src="assets/cards/hidden-gems.svg" alt="Hidden-Gems"/></a></td>
+<td width="50%"><a href="https://github.com/fayizulrahuman/FinTrack"><img src="assets/cards/fintrack.svg" alt="FinTrack"/></a></td>
 </tr>
 </table>
 <!--PROJECTS:END-->
